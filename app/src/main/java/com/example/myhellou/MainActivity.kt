@@ -2,7 +2,7 @@ package com.example.myhellou
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-//teste1
+//teste2
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
